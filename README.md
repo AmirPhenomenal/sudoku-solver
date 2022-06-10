@@ -8,7 +8,7 @@ Code is messy (i was too tired) but maybe in the future i'll optimize it .
 
 
 
-## How Does It Works ?
+## How Does It Work ?
 
 ```mermaid
 graph LR
