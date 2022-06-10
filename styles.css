@@ -1,0 +1,29 @@
+body {
+  background-color: #ffdee9;
+  background-image: linear-gradient(0deg, #ffdee9 0%, #b5fffc 100%);
+  background-size: cover; /* <------ */
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+input {
+  background: transparent;
+}
+.cells {
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  font-size: xx-large;
+  border: 2px dotted black;
+}
+.topBorder {
+  border-top: 3px solid black;
+}
+.botBorder {
+  border-bottom: 3px solid black;
+}
+.leftBorder {
+  border-left: 3px solid black;
+}
+.rightBorder {
+  border-right: 3px solid black;
+}
